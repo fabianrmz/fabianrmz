@@ -1,5 +1,5 @@
 
-![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/BANNER.png)
+![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/)
 ## Hello there!
 
 - Currently studying computer systems engineering 💻 (7th semester).
