@@ -1,4 +1,14 @@
-### Hi there 👋
+
+## Hello there! I'm Fabián 🙋🏽‍♂️
+
+- 👨🏽‍💻 I'm a software engineering student from México 🇲🇽, passionate for music.
+
+- ☕️ I'm currently working on some web development courses and applications.
+
+Follow with me for more content:
+
+🐦 [Twitter](https://twitter.com/actuallyfabian) | 🧳 [Linkedin](https://www.linkedin.com/in/actuallyfabian/) | 📸 [Instagram](https://www.instagram.com/actuallyfabian/)
+
 
 <!--
 **fabianrmz/fabianrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
