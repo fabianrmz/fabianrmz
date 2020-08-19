@@ -1,9 +1,9 @@
 ![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/CANVAS.png)
 ## Hello there!
 
-- Computer Science student 💻.
+- Currently studying computer systems engineering 💻 (7th semester).
 
-- ☕️ I'm currently working on some web development courses and applications.
+- ☕️ I'm currently on 7th semester.
 
 Follow with me for more content:
 
