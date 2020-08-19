@@ -1,6 +1,6 @@
 
 ![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/BANNER.png)
-## Hello there!
+## I'm Fabián Ramírez
 
 - Currently studying computer systems engineering 💻 (7th semester).
 
