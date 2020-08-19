@@ -4,8 +4,6 @@
 
 - Currently studying computer systems engineering 💻 (7th semester).
 
-- ☕️ I'm currently on 7th semester.
-
 Follow with me for more content:
 
 🐦 [Twitter](https://twitter.com/actuallyfabian) | 🧳 [Linkedin](https://www.linkedin.com/in/actuallyfabian/) | 📸 [Instagram](https://www.instagram.com/actuallyfabian/)
