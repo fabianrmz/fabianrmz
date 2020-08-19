@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/CANVAS.png)
+
 ## Hello there!
 
 - Currently studying computer systems engineering 💻 (7th semester).
