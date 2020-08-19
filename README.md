@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/CANVAS.png)
 ## Hello there! I'm Fabián 🙋🏽‍♂️
 
-- 👨🏽‍💻 Computer Science student.
+- Computer Science student 💻.
 
 - ☕️ I'm currently working on some web development courses and applications.
 
