@@ -2,11 +2,9 @@
   <img  src="https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/daayt6p-439cb1fb-0aaa-48c7-af41-a35184c7b133.gif">
 </p>
 
-<p align="center">
+<h3 align="center">
  6/9 SEMESTERS COMPLETED
- </p>
-
-### Working in progress...  
+ </h3>
 
 ## I'm Fabián Ramírez
 
