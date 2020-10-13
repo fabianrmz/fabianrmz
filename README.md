@@ -1,5 +1,6 @@
 
-![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/BANNER.png)
+![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/tenor.gif) 
+### Building in progress
 ## I'm Fabián Ramírez
 
 - Currently studying computer systems engineering.
