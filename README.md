@@ -1,7 +1,7 @@
 
 ![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/tenor.gif) 
 
-#### Building in progress...
+#### Working on progress...
 
 ## I'm Fabián Ramírez
 
@@ -9,4 +9,4 @@
 
 Follow me:
 
-🐦 [Twitter](https://twitter.com/actuallyfabian) | 🧳 [Linkedin](https://www.linkedin.com/in/actuallyfabian/) 
+🐦 [Twitter](https://twitter.com/actuallyfabian) | 🧳 [Linkedin](https://www.linkedin.com/in/fabián-ramírez-gonzález-0632591a8) 
