@@ -1,7 +1,7 @@
 
 ![banner](https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/tenor.gif) 
 
-#### Working on progress...
+#### Working in progress...
 
 ## I'm Fabián Ramírez
 
