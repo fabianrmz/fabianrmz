@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img  src="https://raw.githubusercontent.com/fabianrmz/fabianrmz/master/daayt6p-439cb1fb-0aaa-48c7-af41-a35184c7b133.gif">
-</p>
+</div>
 
 <h3 align="center">
  7/9 SEMESTERS COMPLETED
