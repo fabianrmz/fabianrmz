@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
- 7/9 SEMESTERS COMPLETED
+ 9/9 SEMESTERS COMPLETED
  </h3>
 
 ## I'm Fabián Ramírez
