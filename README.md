@@ -3,13 +3,12 @@
 </div>
 
 <h3 align="center">
- 9/9 SEMESTERS COMPLETED
+ WELCOME
  </h3>
 
-## I'm Fabián Ramírez
+## HI I'm Fabián Ramírez
 
-- Currently studying computer systems engineering.
 
 Follow me:
 
-🐦 [Twitter](https://twitter.com/actuallyfabian) | 🧳 [Linkedin](https://www.linkedin.com/in/fabián-ramírez-gonzález-0632591a8) 
+🧳 [Linkedin](https://www.linkedin.com/in/fabián-ramírez-gonzález-0632591a8) 
